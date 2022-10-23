@@ -107,6 +107,7 @@ li a {
 
 .social li {
   display: inline;
+  margin-left: 20px;
 }
 
 .social {
